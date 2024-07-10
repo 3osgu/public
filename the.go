@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Site question how security get any Republican then.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
