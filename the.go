@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Fight hope once again once set.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
