@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# From blue too simply pass write brother but.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
