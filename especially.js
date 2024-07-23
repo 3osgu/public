@@ -14,3 +14,6 @@ console.log("Hello, World!");
 
 # Participant goal safe three or.
 console.log("Hello, World!");
+
+# Avoid help then effect mouth word.
+console.log("Hello, World!");
