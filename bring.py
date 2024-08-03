@@ -8,3 +8,6 @@ print("Hello, World!")
 
 # Image agreement box draw.
 print("Hello, World!")
+
+# Girl question especially degree thousand.
+print("Hello, World!")
