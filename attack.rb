@@ -5,3 +5,6 @@ puts "Hello, World!"
 
 # Manage movie despite artist.
 puts "Hello, World!"
+
+# Together almost if describe record.
+puts "Hello, World!"
