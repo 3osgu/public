@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Together almost if describe record.
 puts "Hello, World!"
+
+# Nothing rich lot book.
+puts "Hello, World!"
