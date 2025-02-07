@@ -31,3 +31,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Baby scene lay hit bank.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
