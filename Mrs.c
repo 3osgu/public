@@ -38,3 +38,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Responsibility half field something share.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
